@@ -20,7 +20,7 @@
 <section>
   <h2>Entregas</h2>
   <ul>
-    <li>Backend em <code>FastAPI (Python)</code></li>
+    <li>Backend em <code>Node.js</code></li>
     <li>Frontend simples em <code>React</code></li>
     <li>Banco de dados <code>PostgreSQL</code> integrado</li>
     <li>Deploy em <code>AWS</code> (EC2 + RDS + S3)</li>
@@ -30,9 +30,9 @@
 <section>
   <h2>Aprendizado / Skills Desenvolvidas</h2>
   <ul>
-    <li>Desenvolvimento de <code>API REST</code> com FastAPI</li>
+    <li>Desenvolvimento de <code>API REST</code> com Node.js</li>
     <li>Consultas SQL avançadas e integração com PostgreSQL</li>
-    <li>Conexão entre frontend React e backend Python</li>
+    <li>Conexão entre frontend React e backend node.js</li>
     <li>Deploy básico de aplicações web na AWS</li>
     <li>Boas práticas de versionamento com Git e GitHub</li>
   </ul>
